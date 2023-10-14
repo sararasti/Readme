@@ -5,8 +5,8 @@ Data, to me, is like a treasure map. It holds the path to better decisions, more
 ### 🌟 My Mission
 As a Data Analyst, I strive to make data accessible, actionable, and transformative. I'm on a quest to turn ordinary data into extraordinary insights and be a catalyst for positive change.
 ### Tools 
- • Python: A versatile programming language for data analysis, with libraries like Pandas, NumPy, and Matplotlib that streamline data manipulation and visualization.
- • SQL: Structured Query Language for managing, querying, and analyzing relational databases.
+ • Python: A versatile programming language for data analysis, with libraries like Pandas, NumPy, and Matplotlib that streamline data manipulation and visualization.                               
+ • SQL: Structured Query Language for managing, querying, and analyzing relational databases.                                                                                          
  • Jupyter Notebooks: An interactive environment for coding and documenting data analysis, often used for sharing insights and results.
  • Power BI: A business analytics service by Microsoft for interactive data visualizations and business intelligence.
 # Basket Analysis Project
