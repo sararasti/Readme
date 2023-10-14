@@ -6,8 +6,8 @@ Data, to me, is like a treasure map. It holds the path to better decisions, more
 As a Data Analyst, I strive to make data accessible, actionable, and transformative. I'm on a quest to turn ordinary data into extraordinary insights and be a catalyst for positive change.
 ### Tools 
  • Python: A versatile programming language for data analysis, with libraries like Pandas, NumPy, and Matplotlib that streamline data manipulation and visualization.                               
- • SQL: Structured Query Language for managing, querying, and analyzing relational databases.                                                                                          
- • Jupyter Notebooks: An interactive environment for coding and documenting data analysis, often used for sharing insights and results.
+ • SQL: Structured Query Language for managing, querying, and analyzing relational databases.                                                                        
+ • Jupyter Notebooks: An interactive environment for coding and documenting data analysis, often used for sharing insights and results.                                            
  • Power BI: A business analytics service by Microsoft for interactive data visualizations and business intelligence.
 # Basket Analysis Project
 ### Overview
@@ -17,7 +17,7 @@ The Basket Analysis Project is a powerful data-driven initiative aimed at uncove
  • Apriori Algorithm: At the core of this project is the Apriori algorithm, a sophisticated tool for mining frequent item sets within vast datasets. Python is the driving force behind implementing this algorithm, enabling efficient processing and analysis.
  • Data Transformation: Extensive transaction data, including customer purchase histories and product attributes, is gathered and cleaned. Python libraries like Pandas are employed to manipulate and prepare the data for analysis.
  • Association Rules: The analysis doesn't stop at frequent item sets. Association rules are generated to provide a deeper understanding of which items tend to co-occur and influence each other. 
- • Data Visualization: Power BI is utilized to create insightful data visualizations that enable a user-friendly presentation of the findings.
+ • Data Visualization: Power BI is utilized to create insightful data visualizations that enable a user-friendly presentation of the findings.    
 ### Data Source
 - Dataset: The dataset used for this analysis contains transaction records from a e-commerce retail store, including product details and customer IDs.
 - Data Preparation: Data preprocessing involved cleaning missing values and transforming the data into a suitable format.
