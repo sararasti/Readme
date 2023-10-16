@@ -40,8 +40,6 @@ At the top of the dashboard, you'll find two filter options that allow you to se
  • This chart serves as a powerful tool for analyzing your product sales and uncovering cross-selling opportunities.
  • By examining the relationships and correlations within your data, you can make data-driven decisions to boost your business's performance.
 
-
-
 # RFM clustering projectject
 ### Overview
 • Recency (R): Recency measures how recently a customer made a purchase.
