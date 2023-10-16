@@ -42,6 +42,7 @@ At the top of the dashboard, you'll find two filter options that allow you to se
 
 # RFM clustering projectject
 ### Overview
+RFM clustering is a data analysis technique used to segment and categorize customers based on their purchasing behavior. RFM stands for Recency, Frequency, and Monetary Value, which are three critical aspects used to evaluate a customer's engagement with a business.
 • Recency (R): Recency measures how recently a customer made a purchase.
 • Frequency (F): Customers who buy frequently are often more loyal.
 • Monetary Value (M): Monetary Value quantifies how much a customer spends on purchases.
