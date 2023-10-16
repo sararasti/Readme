@@ -40,3 +40,24 @@ At the top of the dashboard, you'll find two filter options that allow you to se
  • This chart serves as a powerful tool for analyzing your product sales and uncovering cross-selling opportunities.
  • By examining the relationships and correlations within your data, you can make data-driven decisions to boost your business's performance.
 
+
+
+# RFM clustering projectject
+### Overview
+• Recency (R): Recency measures how recently a customer made a purchase.
+• Frequency (F): Customers who buy frequently are often more loyal.
+• Monetary Value (M): Monetary Value quantifies how much a customer spends on purchases.
+### Data Preparation
+• Improve data from an Excel file
+• Clean the data, dropping duplicate rows and converting data colmns.
+### RFM Analysis
+• Compute Recency, Frequency and Monetary Value for each customer.
+• Determine the quartile for Recency, Frequency and Monetary Value.
+• Create RFM Class 
+### Customer Segmentation
+• Visualize the relationship between product diversity and total
+• Determine the optimal number of clusters using Elbow Method.
+### Cluster Analysis 
+• Perform K-means clustering with the chosen number fo clusters.
+• Assign cluster labels to the data.
+
